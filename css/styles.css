@@ -1,0 +1,74 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
+    background-color: #f9f9f9;
+    background-image: url(/img/logo.png);
+}
+
+h1 {
+    color: #ffffff;
+    text-shadow: black;
+    background-color: rgb(87, 86, 86);
+    padding: 10px;
+}
+
+#studentId {
+    color: #ffffff;
+    font-size: 25px;
+    background-color: rgb(87, 86, 86);
+    padding: 10px;
+
+}
+
+button {
+    background-color: maroon;
+    color: white;
+    padding: 10px 15px;
+    margin: 5px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: rgb(192, 81, 81);
+}
+
+section {
+    text-align: center;
+    color: #ffffff;
+    background:rgb(87, 86, 86);
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    font-size: 30px;
+}
+
+#Nme {
+    font-weight: 600;
+    color: white;
+    font-size: 25px;
+    background-color:  rgb(192, 81, 81);
+    padding: 10px;
+}
+
+p {
+    font-weight: 600;
+}
+
+#story {
+    color: black;
+}
+
+#story {
+    background:rgb(87, 86, 86);
+    min-height: 50px;
+    background-color: #e7e7e7;
+    border: dashed 2px #ccc;
+    padding: 10px;
+    margin-top: 10px;
+}
